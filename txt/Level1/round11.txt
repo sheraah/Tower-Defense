@@ -1,0 +1,4 @@
+20 Green 0.2
+40 Blue 0.2
+60 Red 0.1
+15 Yellow 0.8

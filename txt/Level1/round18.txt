@@ -1,0 +1,4 @@
+2 Yellow 0.5
+10 Pink 0.5
+20 Blue 0.1
+10 Pink 0.1

@@ -1,0 +1,7 @@
+10 Red 1
+100 Blue 0.1
+5 Red 1
+80 Green 0.125
+5 Red 1
+50 Yellow 0.2
+5 Red 1
